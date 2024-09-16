@@ -1,0 +1,14 @@
+G:\разработка программных модулей\Factory\bin\Debug\net8.0\Factory.exe
+G:\разработка программных модулей\Factory\bin\Debug\net8.0\Factory.deps.json
+G:\разработка программных модулей\Factory\bin\Debug\net8.0\Factory.runtimeconfig.json
+G:\разработка программных модулей\Factory\bin\Debug\net8.0\Factory.dll
+G:\разработка программных модулей\Factory\bin\Debug\net8.0\Factory.pdb
+G:\разработка программных модулей\Factory\obj\Debug\net8.0\Factory.GeneratedMSBuildEditorConfig.editorconfig
+G:\разработка программных модулей\Factory\obj\Debug\net8.0\Factory.AssemblyInfoInputs.cache
+G:\разработка программных модулей\Factory\obj\Debug\net8.0\Factory.AssemblyInfo.cs
+G:\разработка программных модулей\Factory\obj\Debug\net8.0\Factory.csproj.CoreCompileInputs.cache
+G:\разработка программных модулей\Factory\obj\Debug\net8.0\Factory.dll
+G:\разработка программных модулей\Factory\obj\Debug\net8.0\refint\Factory.dll
+G:\разработка программных модулей\Factory\obj\Debug\net8.0\Factory.pdb
+G:\разработка программных модулей\Factory\obj\Debug\net8.0\Factory.genruntimeconfig.cache
+G:\разработка программных модулей\Factory\obj\Debug\net8.0\ref\Factory.dll
