@@ -1,0 +1,14 @@
+G:\разработка программных модулей\Adapter Pattern\bin\Debug\net8.0\Adapter Pattern.exe
+G:\разработка программных модулей\Adapter Pattern\bin\Debug\net8.0\Adapter Pattern.deps.json
+G:\разработка программных модулей\Adapter Pattern\bin\Debug\net8.0\Adapter Pattern.runtimeconfig.json
+G:\разработка программных модулей\Adapter Pattern\bin\Debug\net8.0\Adapter Pattern.dll
+G:\разработка программных модулей\Adapter Pattern\bin\Debug\net8.0\Adapter Pattern.pdb
+G:\разработка программных модулей\Adapter Pattern\obj\Debug\net8.0\Adapter Pattern.GeneratedMSBuildEditorConfig.editorconfig
+G:\разработка программных модулей\Adapter Pattern\obj\Debug\net8.0\Adapter Pattern.AssemblyInfoInputs.cache
+G:\разработка программных модулей\Adapter Pattern\obj\Debug\net8.0\Adapter Pattern.AssemblyInfo.cs
+G:\разработка программных модулей\Adapter Pattern\obj\Debug\net8.0\Adapter Pattern.csproj.CoreCompileInputs.cache
+G:\разработка программных модулей\Adapter Pattern\obj\Debug\net8.0\Adapter Pattern.dll
+G:\разработка программных модулей\Adapter Pattern\obj\Debug\net8.0\refint\Adapter Pattern.dll
+G:\разработка программных модулей\Adapter Pattern\obj\Debug\net8.0\Adapter Pattern.pdb
+G:\разработка программных модулей\Adapter Pattern\obj\Debug\net8.0\Adapter Pattern.genruntimeconfig.cache
+G:\разработка программных модулей\Adapter Pattern\obj\Debug\net8.0\ref\Adapter Pattern.dll
