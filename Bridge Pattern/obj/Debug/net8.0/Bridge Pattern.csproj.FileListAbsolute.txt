@@ -1,0 +1,14 @@
+G:\разработка программных модулей\Bridge Pattern\bin\Debug\net8.0\Bridge Pattern.exe
+G:\разработка программных модулей\Bridge Pattern\bin\Debug\net8.0\Bridge Pattern.deps.json
+G:\разработка программных модулей\Bridge Pattern\bin\Debug\net8.0\Bridge Pattern.runtimeconfig.json
+G:\разработка программных модулей\Bridge Pattern\bin\Debug\net8.0\Bridge Pattern.dll
+G:\разработка программных модулей\Bridge Pattern\bin\Debug\net8.0\Bridge Pattern.pdb
+G:\разработка программных модулей\Bridge Pattern\obj\Debug\net8.0\Bridge Pattern.GeneratedMSBuildEditorConfig.editorconfig
+G:\разработка программных модулей\Bridge Pattern\obj\Debug\net8.0\Bridge Pattern.AssemblyInfoInputs.cache
+G:\разработка программных модулей\Bridge Pattern\obj\Debug\net8.0\Bridge Pattern.AssemblyInfo.cs
+G:\разработка программных модулей\Bridge Pattern\obj\Debug\net8.0\Bridge Pattern.csproj.CoreCompileInputs.cache
+G:\разработка программных модулей\Bridge Pattern\obj\Debug\net8.0\Bridge Pattern.dll
+G:\разработка программных модулей\Bridge Pattern\obj\Debug\net8.0\refint\Bridge Pattern.dll
+G:\разработка программных модулей\Bridge Pattern\obj\Debug\net8.0\Bridge Pattern.pdb
+G:\разработка программных модулей\Bridge Pattern\obj\Debug\net8.0\Bridge Pattern.genruntimeconfig.cache
+G:\разработка программных модулей\Bridge Pattern\obj\Debug\net8.0\ref\Bridge Pattern.dll
