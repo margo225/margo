@@ -49,7 +49,7 @@ namespace Composite_Pattern
     }
     public class Section : Component
     {
-        List<Component> components = new List<Component>();
+        public List<Component> components = new List<Component>();
         public Section(string name) : base(name) { }
         public override string Display() // возвращает содержание раздела
         {
@@ -78,7 +78,7 @@ namespace Composite_Pattern
 
     public class Document
     {
-        List<Component> components = new List<Component>();
+        public List<Component> components = new List<Component>();
         private string name;
         public Document(string name)
         {
