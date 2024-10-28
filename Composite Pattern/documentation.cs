@@ -96,7 +96,14 @@ namespace Composite_Pattern
         }
         public void Add(Component component) // добавляет раздел в документ
         {
-            components.Add(component);
+            if (component is Section)
+            {
+                components.Add(component);
+            }
+            else 
+            {
+                Console.WriteLine("Это не раздел. Это нельзя добавить");
+            }
         }
         public void Add(Component whereComponent, Component component) // доавляет раздел в раздел
         {
