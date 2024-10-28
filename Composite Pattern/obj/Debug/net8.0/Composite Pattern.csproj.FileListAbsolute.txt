@@ -1,0 +1,14 @@
+G:\разработка программных модулей\Composite Pattern\bin\Debug\net8.0\Composite Pattern.exe
+G:\разработка программных модулей\Composite Pattern\bin\Debug\net8.0\Composite Pattern.deps.json
+G:\разработка программных модулей\Composite Pattern\bin\Debug\net8.0\Composite Pattern.runtimeconfig.json
+G:\разработка программных модулей\Composite Pattern\bin\Debug\net8.0\Composite Pattern.dll
+G:\разработка программных модулей\Composite Pattern\bin\Debug\net8.0\Composite Pattern.pdb
+G:\разработка программных модулей\Composite Pattern\obj\Debug\net8.0\Composite Pattern.GeneratedMSBuildEditorConfig.editorconfig
+G:\разработка программных модулей\Composite Pattern\obj\Debug\net8.0\Composite Pattern.AssemblyInfoInputs.cache
+G:\разработка программных модулей\Composite Pattern\obj\Debug\net8.0\Composite Pattern.AssemblyInfo.cs
+G:\разработка программных модулей\Composite Pattern\obj\Debug\net8.0\Composite Pattern.csproj.CoreCompileInputs.cache
+G:\разработка программных модулей\Composite Pattern\obj\Debug\net8.0\Composite Pattern.dll
+G:\разработка программных модулей\Composite Pattern\obj\Debug\net8.0\refint\Composite Pattern.dll
+G:\разработка программных модулей\Composite Pattern\obj\Debug\net8.0\Composite Pattern.pdb
+G:\разработка программных модулей\Composite Pattern\obj\Debug\net8.0\Composite Pattern.genruntimeconfig.cache
+G:\разработка программных модулей\Composite Pattern\obj\Debug\net8.0\ref\Composite Pattern.dll
