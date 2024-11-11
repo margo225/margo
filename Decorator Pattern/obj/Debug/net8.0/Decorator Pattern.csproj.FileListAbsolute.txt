@@ -1,0 +1,14 @@
+G:\разработка программных модулей\Decorator Pattern\bin\Debug\net8.0\Decorator Pattern.exe
+G:\разработка программных модулей\Decorator Pattern\bin\Debug\net8.0\Decorator Pattern.deps.json
+G:\разработка программных модулей\Decorator Pattern\bin\Debug\net8.0\Decorator Pattern.runtimeconfig.json
+G:\разработка программных модулей\Decorator Pattern\bin\Debug\net8.0\Decorator Pattern.dll
+G:\разработка программных модулей\Decorator Pattern\bin\Debug\net8.0\Decorator Pattern.pdb
+G:\разработка программных модулей\Decorator Pattern\obj\Debug\net8.0\Decorator Pattern.GeneratedMSBuildEditorConfig.editorconfig
+G:\разработка программных модулей\Decorator Pattern\obj\Debug\net8.0\Decorator Pattern.AssemblyInfoInputs.cache
+G:\разработка программных модулей\Decorator Pattern\obj\Debug\net8.0\Decorator Pattern.AssemblyInfo.cs
+G:\разработка программных модулей\Decorator Pattern\obj\Debug\net8.0\Decorator Pattern.csproj.CoreCompileInputs.cache
+G:\разработка программных модулей\Decorator Pattern\obj\Debug\net8.0\Decorator Pattern.dll
+G:\разработка программных модулей\Decorator Pattern\obj\Debug\net8.0\refint\Decorator Pattern.dll
+G:\разработка программных модулей\Decorator Pattern\obj\Debug\net8.0\Decorator Pattern.pdb
+G:\разработка программных модулей\Decorator Pattern\obj\Debug\net8.0\Decorator Pattern.genruntimeconfig.cache
+G:\разработка программных модулей\Decorator Pattern\obj\Debug\net8.0\ref\Decorator Pattern.dll
