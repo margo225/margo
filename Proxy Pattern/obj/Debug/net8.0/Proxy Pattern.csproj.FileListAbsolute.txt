@@ -1,0 +1,14 @@
+G:\разработка программных модулей\Proxy Pattern\bin\Debug\net8.0\Proxy Pattern.exe
+G:\разработка программных модулей\Proxy Pattern\bin\Debug\net8.0\Proxy Pattern.deps.json
+G:\разработка программных модулей\Proxy Pattern\bin\Debug\net8.0\Proxy Pattern.runtimeconfig.json
+G:\разработка программных модулей\Proxy Pattern\bin\Debug\net8.0\Proxy Pattern.dll
+G:\разработка программных модулей\Proxy Pattern\bin\Debug\net8.0\Proxy Pattern.pdb
+G:\разработка программных модулей\Proxy Pattern\obj\Debug\net8.0\Proxy Pattern.GeneratedMSBuildEditorConfig.editorconfig
+G:\разработка программных модулей\Proxy Pattern\obj\Debug\net8.0\Proxy Pattern.AssemblyInfoInputs.cache
+G:\разработка программных модулей\Proxy Pattern\obj\Debug\net8.0\Proxy Pattern.AssemblyInfo.cs
+G:\разработка программных модулей\Proxy Pattern\obj\Debug\net8.0\Proxy Pattern.csproj.CoreCompileInputs.cache
+G:\разработка программных модулей\Proxy Pattern\obj\Debug\net8.0\Proxy Pattern.dll
+G:\разработка программных модулей\Proxy Pattern\obj\Debug\net8.0\refint\Proxy Pattern.dll
+G:\разработка программных модулей\Proxy Pattern\obj\Debug\net8.0\Proxy Pattern.pdb
+G:\разработка программных модулей\Proxy Pattern\obj\Debug\net8.0\Proxy Pattern.genruntimeconfig.cache
+G:\разработка программных модулей\Proxy Pattern\obj\Debug\net8.0\ref\Proxy Pattern.dll
