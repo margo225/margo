@@ -1,0 +1,14 @@
+G:\разработка программных модулей\Chain of Responsibility Pattern\bin\Debug\net8.0\Chain of Responsibility Pattern.exe
+G:\разработка программных модулей\Chain of Responsibility Pattern\bin\Debug\net8.0\Chain of Responsibility Pattern.deps.json
+G:\разработка программных модулей\Chain of Responsibility Pattern\bin\Debug\net8.0\Chain of Responsibility Pattern.runtimeconfig.json
+G:\разработка программных модулей\Chain of Responsibility Pattern\bin\Debug\net8.0\Chain of Responsibility Pattern.dll
+G:\разработка программных модулей\Chain of Responsibility Pattern\bin\Debug\net8.0\Chain of Responsibility Pattern.pdb
+G:\разработка программных модулей\Chain of Responsibility Pattern\obj\Debug\net8.0\Chain of Responsibility Pattern.GeneratedMSBuildEditorConfig.editorconfig
+G:\разработка программных модулей\Chain of Responsibility Pattern\obj\Debug\net8.0\Chain of Responsibility Pattern.AssemblyInfoInputs.cache
+G:\разработка программных модулей\Chain of Responsibility Pattern\obj\Debug\net8.0\Chain of Responsibility Pattern.AssemblyInfo.cs
+G:\разработка программных модулей\Chain of Responsibility Pattern\obj\Debug\net8.0\Chain of Responsibility Pattern.csproj.CoreCompileInputs.cache
+G:\разработка программных модулей\Chain of Responsibility Pattern\obj\Debug\net8.0\Chain of Responsibility Pattern.dll
+G:\разработка программных модулей\Chain of Responsibility Pattern\obj\Debug\net8.0\refint\Chain of Responsibility Pattern.dll
+G:\разработка программных модулей\Chain of Responsibility Pattern\obj\Debug\net8.0\Chain of Responsibility Pattern.pdb
+G:\разработка программных модулей\Chain of Responsibility Pattern\obj\Debug\net8.0\Chain of Responsibility Pattern.genruntimeconfig.cache
+G:\разработка программных модулей\Chain of Responsibility Pattern\obj\Debug\net8.0\ref\Chain of Responsibility Pattern.dll
