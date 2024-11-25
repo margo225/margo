@@ -1,0 +1,14 @@
+G:\разработка программных модулей\Command Pattern\bin\Debug\net8.0\Command Pattern.exe
+G:\разработка программных модулей\Command Pattern\bin\Debug\net8.0\Command Pattern.deps.json
+G:\разработка программных модулей\Command Pattern\bin\Debug\net8.0\Command Pattern.runtimeconfig.json
+G:\разработка программных модулей\Command Pattern\bin\Debug\net8.0\Command Pattern.dll
+G:\разработка программных модулей\Command Pattern\bin\Debug\net8.0\Command Pattern.pdb
+G:\разработка программных модулей\Command Pattern\obj\Debug\net8.0\Command Pattern.GeneratedMSBuildEditorConfig.editorconfig
+G:\разработка программных модулей\Command Pattern\obj\Debug\net8.0\Command Pattern.AssemblyInfoInputs.cache
+G:\разработка программных модулей\Command Pattern\obj\Debug\net8.0\Command Pattern.AssemblyInfo.cs
+G:\разработка программных модулей\Command Pattern\obj\Debug\net8.0\Command Pattern.csproj.CoreCompileInputs.cache
+G:\разработка программных модулей\Command Pattern\obj\Debug\net8.0\Command Pattern.dll
+G:\разработка программных модулей\Command Pattern\obj\Debug\net8.0\refint\Command Pattern.dll
+G:\разработка программных модулей\Command Pattern\obj\Debug\net8.0\Command Pattern.pdb
+G:\разработка программных модулей\Command Pattern\obj\Debug\net8.0\Command Pattern.genruntimeconfig.cache
+G:\разработка программных модулей\Command Pattern\obj\Debug\net8.0\ref\Command Pattern.dll
