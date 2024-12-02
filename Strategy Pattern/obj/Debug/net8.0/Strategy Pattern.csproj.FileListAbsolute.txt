@@ -1,0 +1,14 @@
+G:\разработка программных модулей\Strategy Pattern\bin\Debug\net8.0\Strategy Pattern.exe
+G:\разработка программных модулей\Strategy Pattern\bin\Debug\net8.0\Strategy Pattern.deps.json
+G:\разработка программных модулей\Strategy Pattern\bin\Debug\net8.0\Strategy Pattern.runtimeconfig.json
+G:\разработка программных модулей\Strategy Pattern\bin\Debug\net8.0\Strategy Pattern.dll
+G:\разработка программных модулей\Strategy Pattern\bin\Debug\net8.0\Strategy Pattern.pdb
+G:\разработка программных модулей\Strategy Pattern\obj\Debug\net8.0\Strategy Pattern.GeneratedMSBuildEditorConfig.editorconfig
+G:\разработка программных модулей\Strategy Pattern\obj\Debug\net8.0\Strategy Pattern.AssemblyInfoInputs.cache
+G:\разработка программных модулей\Strategy Pattern\obj\Debug\net8.0\Strategy Pattern.AssemblyInfo.cs
+G:\разработка программных модулей\Strategy Pattern\obj\Debug\net8.0\Strategy Pattern.csproj.CoreCompileInputs.cache
+G:\разработка программных модулей\Strategy Pattern\obj\Debug\net8.0\Strategy Pattern.dll
+G:\разработка программных модулей\Strategy Pattern\obj\Debug\net8.0\refint\Strategy Pattern.dll
+G:\разработка программных модулей\Strategy Pattern\obj\Debug\net8.0\Strategy Pattern.pdb
+G:\разработка программных модулей\Strategy Pattern\obj\Debug\net8.0\Strategy Pattern.genruntimeconfig.cache
+G:\разработка программных модулей\Strategy Pattern\obj\Debug\net8.0\ref\Strategy Pattern.dll
