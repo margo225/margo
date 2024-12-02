@@ -3,8 +3,18 @@
 using Iterator_Pattern;
 
 Book book = new Book("Стихи","Александр Пушкин",2014);
-Library library = new Library();
-Console.WriteLine(library.Search(library.Len()));
-library.Add(book);
-Console.WriteLine(library.Search(library.Len()));
-library.Add(book);
+IEnumerable library = new Library();
+IEnumerator cashier = library.GetEnumerator();
+while (cashier.MoveNext())
+{
+    Book bookNew = cashier.Current as Book;
+    Console.WriteLine(bookNew.Return());
+}
+cashier.Add(book);
+cashier.Reset();
+Console.WriteLine("\n\n");
+while (cashier.MoveNext())
+{
+    Book bookNew = cashier.Current as Book;
+    Console.WriteLine(bookNew.Return());
+}
