@@ -1,0 +1,14 @@
+G:\разработка программных модулей\Iterator Pattern\bin\Debug\net8.0\Iterator Pattern.exe
+G:\разработка программных модулей\Iterator Pattern\bin\Debug\net8.0\Iterator Pattern.deps.json
+G:\разработка программных модулей\Iterator Pattern\bin\Debug\net8.0\Iterator Pattern.runtimeconfig.json
+G:\разработка программных модулей\Iterator Pattern\bin\Debug\net8.0\Iterator Pattern.dll
+G:\разработка программных модулей\Iterator Pattern\bin\Debug\net8.0\Iterator Pattern.pdb
+G:\разработка программных модулей\Iterator Pattern\obj\Debug\net8.0\Iterator Pattern.GeneratedMSBuildEditorConfig.editorconfig
+G:\разработка программных модулей\Iterator Pattern\obj\Debug\net8.0\Iterator Pattern.AssemblyInfoInputs.cache
+G:\разработка программных модулей\Iterator Pattern\obj\Debug\net8.0\Iterator Pattern.AssemblyInfo.cs
+G:\разработка программных модулей\Iterator Pattern\obj\Debug\net8.0\Iterator Pattern.csproj.CoreCompileInputs.cache
+G:\разработка программных модулей\Iterator Pattern\obj\Debug\net8.0\Iterator Pattern.dll
+G:\разработка программных модулей\Iterator Pattern\obj\Debug\net8.0\refint\Iterator Pattern.dll
+G:\разработка программных модулей\Iterator Pattern\obj\Debug\net8.0\Iterator Pattern.pdb
+G:\разработка программных модулей\Iterator Pattern\obj\Debug\net8.0\Iterator Pattern.genruntimeconfig.cache
+G:\разработка программных модулей\Iterator Pattern\obj\Debug\net8.0\ref\Iterator Pattern.dll
