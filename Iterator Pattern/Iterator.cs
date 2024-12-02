@@ -8,6 +8,68 @@ using System.Xml.Linq;
 
 namespace Iterator_Pattern
 {
+    interface IEnumerable
+    {
+        IEnumerator GetEnumerator();
+    }
+    interface IEnumerator
+    { 
+        bool MoveNext();
+        void Reset();
+        object Current { get; }
+        void Add(Book book);
+    }
+    class Library : IEnumerable
+    {
+        List<Book> books = new List<Book>
+        {
+            new Book ("Война и мир","Лев Толстой",1999),
+            new Book("451 градус по Фаренгейту","Рэй Брэдбери",2010)
+        };
+        public Book this[int index]
+        {
+            get { return books[index]; }
+            set {  books.Insert(index, value); }
+        }
+        public int Count
+        { 
+            get { return books.Count; } 
+        }
+        public IEnumerator GetEnumerator()
+        {
+            return new Cashier(this);
+        }
+        public void Add(Book book)
+            { books.Add(book); }
+    }
+    class Cashier : IEnumerator
+    {
+        private Library library;
+        private int current = -1;
+        public Cashier (Library enumerable)
+        {
+            this.library = enumerable;
+        }
+        public bool MoveNext()
+        {
+            if (current<library.Count -1)
+            {
+                current++;
+                return true;
+            }
+            return false;
+        }
+        public void Reset()
+        {
+            current = -1;
+        }
+        public object Current
+        { get { return library[current]; } }
+        public void Add(Book book)
+        {
+            library.Add(book);
+        }
+    }
     internal class Book
     {
         internal string Title { get; set; }
@@ -19,32 +81,10 @@ namespace Iterator_Pattern
             Author = author;
             Year = year;
         }
-    }
-    internal class Library
-    {
-        List<Book> books = new List<Book>
+        public string Return()
         {
-            new Book ("Война и мир","Лев Толстой",1999),
-            new Book("451 градус по Фаренгейту","Рэй Брэдбери",2010)
-        };
-        public void Add (Book book)
-        {
-            if (!books.Contains(book))
-                books.Add(book);
-            else Console.WriteLine("Такая книга уже есть");
-        }
-        public void Remove(Book book)
-        {
-            books.Remove (book);
-        }
-        public string Search(int index)
-        {
-            string s = "Книга: "+ books[index - 1].Title+", Автор: " + books[index - 1].Author + ", Изданна в " + books[index - 1].Year.ToString();
+            string s= "Книга: "+ Title+", Автор: " + Author + ", Изданна в " + Year.ToString();;
             return s;
-        }
-        public int Len()
-        { 
-            return books.Count; 
         }
     }
 }
