@@ -1,0 +1,14 @@
+G:\разработка программных модулей\Template Mothod Pattern\bin\Debug\net8.0\Template Mothod Pattern.exe
+G:\разработка программных модулей\Template Mothod Pattern\bin\Debug\net8.0\Template Mothod Pattern.deps.json
+G:\разработка программных модулей\Template Mothod Pattern\bin\Debug\net8.0\Template Mothod Pattern.runtimeconfig.json
+G:\разработка программных модулей\Template Mothod Pattern\bin\Debug\net8.0\Template Mothod Pattern.dll
+G:\разработка программных модулей\Template Mothod Pattern\bin\Debug\net8.0\Template Mothod Pattern.pdb
+G:\разработка программных модулей\Template Mothod Pattern\obj\Debug\net8.0\Template Mothod Pattern.GeneratedMSBuildEditorConfig.editorconfig
+G:\разработка программных модулей\Template Mothod Pattern\obj\Debug\net8.0\Template Mothod Pattern.AssemblyInfoInputs.cache
+G:\разработка программных модулей\Template Mothod Pattern\obj\Debug\net8.0\Template Mothod Pattern.AssemblyInfo.cs
+G:\разработка программных модулей\Template Mothod Pattern\obj\Debug\net8.0\Template Mothod Pattern.csproj.CoreCompileInputs.cache
+G:\разработка программных модулей\Template Mothod Pattern\obj\Debug\net8.0\Template Mothod Pattern.dll
+G:\разработка программных модулей\Template Mothod Pattern\obj\Debug\net8.0\refint\Template Mothod Pattern.dll
+G:\разработка программных модулей\Template Mothod Pattern\obj\Debug\net8.0\Template Mothod Pattern.pdb
+G:\разработка программных модулей\Template Mothod Pattern\obj\Debug\net8.0\Template Mothod Pattern.genruntimeconfig.cache
+G:\разработка программных модулей\Template Mothod Pattern\obj\Debug\net8.0\ref\Template Mothod Pattern.dll
