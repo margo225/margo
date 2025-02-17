@@ -1,0 +1,27 @@
+﻿<Window x:Class="MedTexCervise2.Windows.WindowAddShape"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MedTexCervise2.Windows"
+        mc:Ignorable="d"
+        Title="WindowAddShape" Height="450" Width="800">
+    <Grid>
+        <ComboBox Name="TypeBox" HorizontalAlignment="Left" Margin="40,20,0,0" VerticalAlignment="Top" Width="160" Height="25"/>
+        <Label Content="Тип оборудования" HorizontalAlignment="Left" Margin="210,20,0,0" VerticalAlignment="Top" Height="25"/>
+        <ComboBox Name="ModelBox" HorizontalAlignment="Left" Margin="40,50,0,0" VerticalAlignment="Top" Width="160" Height="25"/>
+        <Label Content="Модель оборудования" HorizontalAlignment="Left" Margin="210,50,0,0" VerticalAlignment="Top" Height="25"/>
+        <TextBox Name="FirstNameBox" HorizontalAlignment="Left" Margin="40,80,0,0" VerticalAlignment="Top" Width="160" Height="25" Background="LightGray"/>
+        <Label Content="Фамилия" HorizontalAlignment="Left" Margin="210,80,0,0" VerticalAlignment="Top" Height="25"/>
+        <TextBox Name="LastNameBox" HorizontalAlignment="Left" Margin="40,110,0,0" VerticalAlignment="Top" Width="160" Height="25" Background="LightGray"/>
+        <Label Content="Имя" HorizontalAlignment="Left" Margin="210,110,0,0" VerticalAlignment="Top" Height="25"/>
+        <TextBox Name="PatronymicBox" HorizontalAlignment="Left" Margin="40,140,0,0" VerticalAlignment="Top" Width="160" Height="25" Background="LightGray"/>
+        <Label Content="Отчество" HorizontalAlignment="Left" Margin="210,140,0,0" VerticalAlignment="Top" Height="25"/>
+        <TextBox Name="PhoneBox"  HorizontalAlignment="Left" Margin="40,170,0,0" VerticalAlignment="Top" Width="160" Height="25" Background="LightGray"/>
+        <Label Content="Телефон" HorizontalAlignment="Left" Margin="210,170,0,0" VerticalAlignment="Top" Height="25"/>
+        <Label Content="Описание проблемы" HorizontalAlignment="Left" Margin="40,200,0,0" VerticalAlignment="Top" Height="25"/>
+        <TextBox Name="DescriptionBox" HorizontalAlignment="Left" Margin="40,230,0,0" VerticalAlignment="Top" Width="720" Height="100" Background="LightGray"/>
+        <Button Name="Save" Content="Save" HorizontalAlignment="Left" Margin="40,381,0,0" VerticalAlignment="Top" Width="196" Click="SaveClick"/>
+        <Button Name="Delete" Content="Delete" HorizontalAlignment="Left" Margin="564,381,0,0" VerticalAlignment="Top" Width="196" Click="DeleteClick"/>
+    </Grid>
+</Window>
