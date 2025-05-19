@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace MedTexCervise2
+namespace Kontrol
 {
     /// <summary>
     /// Interaction logic for App.xaml

@@ -1,21 +1,19 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MedTexCervise2.Models
+namespace Kontrol.Models
 {
     public class User
     {
-        public int Id { get; set; } = 0;
-        public FIO FIO { get; set; } = new FIO("", "", "");
-        public string Login { get; set; } = "";
-        public string Password { get; set; } = "";
-        public Role Role { get; set; } = Role.Worker;
-        public override string ToString()
-        {
-            return $"{Id}: {FIO.ToString()} - {Role}";
-        }
+        [Key]
+        public string Login { get; set; }
+        public string Password { get; set; }
+        public DateOnly DateRegistration { get; set; }
+        public string FIO { get; set; }
+        public string Phone { get; set; }
     }
 }
